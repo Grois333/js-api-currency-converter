@@ -1,0 +1,75 @@
+body {
+    background-image: url(http://wallpapers.net/web/wallpapers/free-download-world-currency-notes-hd-wallpaper-for-desktop-mobiles/thumbnail/lg.jpg);
+    background-size: 2000px 645px;
+    font-size: 20px;
+    font-family: sans-serif;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+h1 {
+    text-align: center;
+    font-family: "Gruppo", cursive;
+    font-size: 50px;
+    margin: 0;
+    color: white;
+}
+
+#root {
+    background-color: rgba(31, 31, 82, 0.3);
+    width: 500px;
+    margin: 0 auto;
+    padding: 10px;
+    text-align: center;
+    margin-top: 70px;
+    border-radius: 5px;
+}
+
+select, input {
+    font-weight: bolder;
+    color: white;
+    background-color: rgba(31, 31, 82, 0.3);
+    font-size: 14px;
+    text-align: center;
+    height: 20px;
+}
+
+input:focus {
+    outline: none;
+}
+
+select:focus {
+    outline: none;
+}
+
+h4 {
+    color: white;
+    font-family: "Gruppo", cursive;
+    font-size: 30px;
+}
+
+.result {
+    background-color: white;
+    border: 1px solid gray;
+    width: 250px;
+    font-weight: bold;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 25px;
+    color: white;
+    background-color: rgba(31, 31, 82, 0.3);
+    font-family: "Gruppo", cursive;
+    font-size: 20px;
+}
+
+button {
+    font-weight: bolder;
+    color: white;
+    background-color: rgba(31, 31, 82, 0.3);
+    font-family: "Gruppo", cursive;
+    font-size: 14px;
+    text-align: center;
+    height: 30px;
+    cursor: pointer;
+}
